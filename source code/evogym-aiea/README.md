@@ -1,9 +1,16 @@
+# AIEA
+
+Title: Rapidly Evolving Soft Robots via Action Inheritance
+
+ID: TEVC-00157-2023
+
+Authors: Liu, Shulei; Yao, Wen; Wang, Handing; Peng, Wei; Yang Yang
+
+The code of AIEA is placed in examples/SAEA/AIEA.py.
+
+
+
 # Evolution Gym
-
-A large-scale benchmark for co-optimizing the design and control of soft robots. As seen in [Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots](https://evolutiongym.github.io/) (**NeurIPS 2021**).
-
-[//]: # (<img src="images/teaser.gif" alt="teaser" width="800"/>)
-![teaser](images/teaser.gif)
 
 # Installation
 
@@ -71,9 +78,6 @@ brew install glfw
 
 # Usage
 
-## Examples
-
-To see example usage as well as to run co-design and control optimization experiments in EvoGym, please see the `examples` folder and its `README`.
 
 ## Tutorials
 
@@ -86,17 +90,3 @@ You can find documentation on our [website](https://evolutiongym.github.io/docum
 ## Design Tool
 
 For instructions on how to use the Evolution Gym Design Tool, please see [this repo](https://github.com/EvolutionGym/evogym-design-tool).
-
-# Citation
-
-If you find our repository helpful to your research, please cite our paper:
-
-```
-@article{bhatia2021evolution,
-  title={Evolution gym: A large-scale benchmark for evolving soft robots},
-  author={Bhatia, Jagdeep and Jackson, Holly and Tian, Yunsheng and Xu, Jie and Matusik, Wojciech},
-  journal={Advances in Neural Information Processing Systems},
-  volume={34},
-  year={2021}
-}
-```
