@@ -57,36 +57,4 @@ To build the C++ simulation, build all the submodules, and install `evogym` run 
 python setup.py install
 ``` 
 
-### Test Installation
-
-cd to the `examples` folder and run the following script:
-
-```shell
-python gym_test.py
-```
-
-This script creates a random `5x5` robot in the `Walking-v0` environment. The robot is taking random actions. A window should open with a visualization of the environment -- kill the process from the terminal to close it.
-
-<!--### OpenGL installation on Unix-based systems
-
-To install OpenGL via [homebrew](https://brew.sh/), run the following commands:
-
-```shell
-brew install glfw
-```
---->
-
-# Usage
-
-
-## Tutorials
-
-You can find tutorials for getting started with the codebase on our [website](https://evolutiongym.github.io/tutorials). Completed code from all tutorials is also available in the `tutorials` folder.
-
-## Docs
-
-You can find documentation on our [website](https://evolutiongym.github.io/documentation).
-
-## Design Tool
-
-For instructions on how to use the Evolution Gym Design Tool, please see [this repo](https://github.com/EvolutionGym/evogym-design-tool).
+More details can refer to [website](https://evolutiongym.github.io/documentation).
