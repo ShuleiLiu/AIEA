@@ -1,5 +1,5 @@
 
-# Hard Tasks
+# Hard Tasks 2
 
 The optimal robots obtained by GA, BO, RFEA, and AIEA in five independent runs.
 
@@ -11,6 +11,10 @@ The page's loading speed is slow, please be patient. Thank you!
 <tr>
 <td><center>Task</center></td>
 <td><center>GA</center></td>
+<td><center>BO</center></td>
+<td><center>RFEA</center></td>
+<td><center>AIEA</center></td>
+</tr>
 <tr>
 <td><center>ObstacleTraverser-v1</center></td>
 <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/gif/ga_ObstacleTraverser-v1_1.659.gif" />Reward:1.659</center></td>
